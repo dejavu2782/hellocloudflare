@@ -68,7 +68,3 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
-
-## 5. Honesty
-
-- 모르는 건 모른다고 말한다. 확실하지 않은 내용을 확실한 것처럼 말하지 않는다.
