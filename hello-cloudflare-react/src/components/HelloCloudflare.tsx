@@ -1,5 +1,5 @@
 import React from 'react';
-import './HelloCloudflare.css';
+import '../styles/globals.css';
 import useAnimation from '../hooks/useAnimation';
 
 const HelloCloudflare: React.FC = () => {
